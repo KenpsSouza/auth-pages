@@ -17,8 +17,9 @@ body {
 
 :root {
   --black: #000000;
-  --gray : #D9D9D9;
-  --green : #3A5B22;
+  --gray: #D9D9D9;
+  --green: #3A5B22;
   --white: #FFFFFF;
   --blue: #0000FF;
+  --border-gray: #F5F5F5;
 }
